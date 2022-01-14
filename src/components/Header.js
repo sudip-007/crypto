@@ -49,7 +49,7 @@ function Header() {
               variant="h6"
               className={classes.title}
             >
-              Crypto Buzz
+              Crypto Hunter
             </Typography>
             <Select
               variant="outlined"
